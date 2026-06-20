@@ -1,0 +1,17 @@
+
+## 📄 SQL Queries
+
+The SQL queries used for KPI calculations, sales trend analysis, category-wise performance evaluation, and identification of top/bottom performing pizzas are included in this repository.
+
+📂 File: [PIZZA SALES SQL QUERIES.docx](PIZZA%20SALES%20SQL%20QUERIES.docx)
+
+### Analysis Covered
+- Total Revenue
+- Total Orders
+- Total Pizzas Sold
+- Average Order Value
+- Average Pizzas Per Order
+- Daily & Monthly Sales Trends
+- Sales by Pizza Category
+- Sales by Pizza Size
+- Top & Bottom Performing Pizzas
